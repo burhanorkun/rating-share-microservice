@@ -1,0 +1,4 @@
+# Project exclude paths
+/rating-service/rating-client/target/
+/rating-service/rating-server/target/
+/user-service/target/
